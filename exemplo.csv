@@ -1,0 +1,6 @@
+nome, quantidade, preco, disponibilidade
+Sapato, 10, 65.7, True
+Camisa, 12, 60.1, True
+Short, 9, 352, False
+Tênis, 123, 4567.98, True
+Infantil, 6, 148.99, True
